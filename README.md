@@ -1,4 +1,17 @@
-#Code soft AI internship tasks
+Code soft AI internship tasks
+
+
+
+
+
+
+
+
+
+
+
+
+
 *TASK 1*
 CHATBOT WITH RULE-BASED RESPONSES
 *TASK 2*
